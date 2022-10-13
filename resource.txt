@@ -1,0 +1,2 @@
+https://towardsdatascience.com/the-beginners-guide-to-language-models-aa47165b57f9
+https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-nlp-python-code/
