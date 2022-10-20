@@ -1,2 +1,9 @@
 https://towardsdatascience.com/the-beginners-guide-to-language-models-aa47165b57f9
 https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-nlp-python-code/
+https://simpletransformers.ai/docs/language-generation-model/
+https://anyword.com/blog/understanding-and-generating-text-with-language-models/
+
+# Text Generation using LSTM
+https://www.kaggle.com/code/shivamb/beginners-guide-to-text-generation-using-lstms
+https://iq.opengenus.org/text-generation-lstm/
+https://codeburst.io/generating-text-using-an-lstm-network-no-libraries-2dff88a3968
