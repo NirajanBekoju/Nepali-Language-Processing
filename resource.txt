@@ -7,3 +7,4 @@ https://anyword.com/blog/understanding-and-generating-text-with-language-models/
 https://www.kaggle.com/code/shivamb/beginners-guide-to-text-generation-using-lstms
 https://iq.opengenus.org/text-generation-lstm/
 https://codeburst.io/generating-text-using-an-lstm-network-no-libraries-2dff88a3968
+https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765
