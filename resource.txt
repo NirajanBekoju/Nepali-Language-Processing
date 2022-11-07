@@ -1,3 +1,4 @@
+# Language Models
 https://towardsdatascience.com/the-beginners-guide-to-language-models-aa47165b57f9
 https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-nlp-python-code/
 https://simpletransformers.ai/docs/language-generation-model/
@@ -9,4 +10,6 @@ https://iq.opengenus.org/text-generation-lstm/
 https://codeburst.io/generating-text-using-an-lstm-network-no-libraries-2dff88a3968
 https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765
 
-asdf
+# Word2Vec Generation and Visualization 
+https://medium.com/swlh/word-embedding-word2vec-with-genism-nltk-and-t-sne-visualization-43eae8ab3e2e
+https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72
