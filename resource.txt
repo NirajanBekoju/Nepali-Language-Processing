@@ -4,6 +4,8 @@ https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-
 https://simpletransformers.ai/docs/language-generation-model/
 https://anyword.com/blog/understanding-and-generating-text-with-language-models/
 
+IMP : https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
+
 # Text Generation using LSTM
 https://www.kaggle.com/code/shivamb/beginners-guide-to-text-generation-using-lstms
 https://iq.opengenus.org/text-generation-lstm/
