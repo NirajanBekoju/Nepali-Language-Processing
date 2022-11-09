@@ -15,3 +15,6 @@ https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d0
 # Word2Vec Generation and Visualization 
 https://medium.com/swlh/word-embedding-word2vec-with-genism-nltk-and-t-sne-visualization-43eae8ab3e2e
 https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72
+
+# Perplexity
+https://towardsdatascience.com/perplexity-in-language-models-87a196019a94
