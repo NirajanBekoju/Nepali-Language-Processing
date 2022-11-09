@@ -12,9 +12,20 @@ https://iq.opengenus.org/text-generation-lstm/
 https://codeburst.io/generating-text-using-an-lstm-network-no-libraries-2dff88a3968
 https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765
 
+IMP: http://www.shivambansal.com/blog/text-lstm/
+
+
+
 # Word2Vec Generation and Visualization 
+https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc
+https://medium.com/aiguys/word-embeddings-cbow-and-skip-gram-5d615ad61d3d
+https://towardsdatascience.com/skip-gram-neural-network-from-scratch-485f2e688238
 https://medium.com/swlh/word-embedding-word2vec-with-genism-nltk-and-t-sne-visualization-43eae8ab3e2e
 https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72
+
+https://towardsmachinelearning.org/introduction-to-word2vec/
+https://towardsmachinelearning.org/inner-working-of-word2vec-model/
+https://towardsmachinelearning.org/cbow-continuous-bag-of-words/
 
 # Perplexity
 https://towardsdatascience.com/perplexity-in-language-models-87a196019a94
