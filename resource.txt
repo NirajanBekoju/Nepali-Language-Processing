@@ -29,3 +29,7 @@ https://towardsmachinelearning.org/cbow-continuous-bag-of-words/
 
 # Perplexity
 https://towardsdatascience.com/perplexity-in-language-models-87a196019a94
+
+# Text Classification using LSTMs
+https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
+
