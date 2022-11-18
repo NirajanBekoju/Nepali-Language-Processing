@@ -2,8 +2,13 @@
 2. Word Embedding
 3. Sentiment Classification
 4. Probabilistic Language Modelling
+
+- Nepali Spam and Ham Classification
+
 5. Sequential Language Modelling
-6. Flask Based API Backend 
+
+6. Django Based API Backend 
+Django Rest API, Postman, SQLite
 7. Canva Design for frontend
 8. React Frontend
 
