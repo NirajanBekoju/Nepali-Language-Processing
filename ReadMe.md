@@ -17,4 +17,4 @@
 * Word Embedding : Word Cloud and Nepali word embedding using gensim Word2Vec model
 
 ## Status 
-* Currently working on
+* Currently working on.
