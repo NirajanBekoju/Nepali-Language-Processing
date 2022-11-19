@@ -3,7 +3,7 @@
 ![Nepali Word Cloud](word_cloud.png)
 
 ## Proposal and Report Links
-* [Proposal](targetURL "https://github.com/NirajanBekoju/Nepali-Language-Processing-Proposal")
+* [Proposal](https://github.com/NirajanBekoju/Nepali-Language-Processing-Proposal)
 
 ## Project Goals
 
