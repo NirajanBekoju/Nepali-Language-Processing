@@ -8,7 +8,7 @@
 5. Sequential Language Modelling
 
 6. Django Based API Backend 
-Django Rest API, Postman, SQLite
+- Django Rest API, Postman, SQLite
 7. Canva Design for frontend
 8. React Frontend
 
