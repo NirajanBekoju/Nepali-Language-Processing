@@ -1,1 +1,2 @@
 https://www.kaggle.com/datasets/smaheshacharya/nepali-sentiment-analysis
+https://www.kaggle.com/datasets/shikharghimire/nepali-language-sentiment-analysis-movie-reviews

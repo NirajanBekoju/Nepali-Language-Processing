@@ -1,0 +1,2 @@
+tokenized_sentence.pkl : tokenized sentences from the data of Nepali Corpus (Probabilistic Language Modelling)
+Nepali Corpus : https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus
