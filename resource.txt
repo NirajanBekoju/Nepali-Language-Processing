@@ -33,3 +33,10 @@ https://towardsdatascience.com/perplexity-in-language-models-87a196019a94
 # Text Classification using LSTMs
 https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
 
+# Sequence Modelling
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://medium.com/machine-learning-basics/sequence-modelling-b2cdf244c233
+https://blog.paperspace.com/bidirectional-rnn-keras/
+
+
+
