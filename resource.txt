@@ -3,6 +3,7 @@ https://towardsdatascience.com/the-beginners-guide-to-language-models-aa47165b57
 https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-nlp-python-code/
 https://simpletransformers.ai/docs/language-generation-model/
 https://anyword.com/blog/understanding-and-generating-text-with-language-models/
+https://lena-voita.github.io/nlp_course/language_modeling.html
 
 IMP : https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 
@@ -38,5 +39,10 @@ https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://medium.com/machine-learning-basics/sequence-modelling-b2cdf244c233
 https://blog.paperspace.com/bidirectional-rnn-keras/
 
+# Transformer Model
+https://medium.com/the-center-for-social-media-and-politics/text-classification-using-a-transformer-based-model-1bed832f22fe
+https://levelup.gitconnected.com/how-to-fine-tune-an-nlp-classification-model-with-transformers-and-huggingface-1a2c0ea79c2
 
+https://predictivehacks.com/how-to-build-an-nlp-classification-model-with-transformers-on-aws-sagemaker/#more-8352
+https://predictivehacks.com/how-to-fine-tuned-an-nlp-classification-model-with-transformers-and-huggingface/#more-8246
 
