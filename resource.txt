@@ -46,3 +46,5 @@ https://levelup.gitconnected.com/how-to-fine-tune-an-nlp-classification-model-wi
 https://predictivehacks.com/how-to-build-an-nlp-classification-model-with-transformers-on-aws-sagemaker/#more-8352
 https://predictivehacks.com/how-to-fine-tuned-an-nlp-classification-model-with-transformers-and-huggingface/#more-8246
 
+https://jalammar.github.io/illustrated-gpt2/
+
