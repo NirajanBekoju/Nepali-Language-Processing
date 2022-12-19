@@ -1,1 +1,4 @@
 https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus
+
+#Data Source for "compiled.txt" used in Kn smoothed Model
+https://ieee-dataport.org/open-access/large-scale-nepali-text-corpus
