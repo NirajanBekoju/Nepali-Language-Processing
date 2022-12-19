@@ -47,4 +47,6 @@ https://predictivehacks.com/how-to-build-an-nlp-classification-model-with-transf
 https://predictivehacks.com/how-to-fine-tuned-an-nlp-classification-model-with-transformers-and-huggingface/#more-8246
 
 https://jalammar.github.io/illustrated-gpt2/
+https://medium.com/engineered-publicis-sapient/text-generation-in-any-language-with-gpt-2-e8fba8656167
+https://huggingface.co/blog/how-to-train
 
