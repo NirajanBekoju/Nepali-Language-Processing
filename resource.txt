@@ -54,3 +54,10 @@ https://www.freecodecamp.org/news/evolution-of-tokenization/
 
 IMP : https://medium.com/engineered-publicis-sapient/text-generation-in-any-language-with-gpt-2-e8fba8656167
 
+
+# TExt Summarization
+https://www.width.ai/post/4-long-text-summarization-methods
+
+https://www.topcoder.com/thrive/articles/text-summarization-in-nlp
+https://medium.com/analytics-vidhya/text-summarization-using-nlp-3e85ad0c6349
+
