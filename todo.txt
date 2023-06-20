@@ -3,8 +3,6 @@
 3. Sentiment Classification
 4. Probabilistic Language Modelling
 
-- Nepali Spam and Ham Classification
-
 5. Sequential Language Modelling
 
 6. Django Based API Backend 
