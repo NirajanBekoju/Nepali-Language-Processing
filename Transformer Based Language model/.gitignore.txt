@@ -1,3 +1,0 @@
-*.pt
-models/
-transformer_vocab.pickle
